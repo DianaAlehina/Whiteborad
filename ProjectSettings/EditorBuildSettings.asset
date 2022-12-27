@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/whiteboard VR.unity
+    guid: 44619181a8d7bb44ea3bc600ea828f40
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 263379d1a3f19f249a0e91dd08457349, type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 9ac9ca2f20fcaaa488069f9033caf3f3, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9d3f992f74cfcf8459d5d7841c3030a3, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 9acce22c85b854d4e81f740593e12f18, type: 2}
